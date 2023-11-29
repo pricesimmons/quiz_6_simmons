@@ -1,3 +1,7 @@
+#Quiz 6
+#Price Simmons
+#11/29/2023
+
 import tkinter as tk
 from tkinter import messagebox
 from app.functions import add_numbers, subtract_numbers, divide_numbers, multiply_numbers
